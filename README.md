@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Abdullahi Yahaya!
+![Twitter Follow](https://img.shields.io/twitter/follow/abdullahiub_?label=Follow%20Me)
 
 <!--
 **Abdullahiub/Abdullahiub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

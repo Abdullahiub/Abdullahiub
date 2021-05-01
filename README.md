@@ -1,5 +1,10 @@
 ### Hi there 👋, I am Abdullahi Yahaya!
+
+---
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/abdullahiub_?label=Follow%20Me)
+
+A full stack web developer specializing in JavaScript and PHP. Professional experience with all technologies listed below...
 
 <!--
 **Abdullahiub/Abdullahiub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
